@@ -7,7 +7,12 @@ const skills = [
     level: 'advanced',
     style: 'bg-orange-500 rounded-md',
   },
-  { id: 2, skill: 'CSS', level: 'advanced', style: 'bg-blue-600 rounded-md' },
+  {
+    id: 2,
+    skill: 'CSS',
+    level: 'advanced',
+    style: 'bg-blue-600 rounded-md',
+  },
   {
     id: 3,
     skill: 'JavaScript',
